@@ -1,0 +1,54 @@
+---
+-
+  git:
+    local-name: minireach
+    uri: "git@gitlab.ida.liu.se:minireach/minireach.git"
+    version: indigo-rocon
+-
+  git:
+    local-name: minireach_apps
+    uri: "git@gitlab.ida.liu.se:minireach/minireach_apps.git"
+    version: indigo-rocon
+-
+  git:
+    local-name: minireach_simulator
+    uri: "git@gitlab.ida.liu.se:minireach/minireach_simulator.git"
+    version: indigo-rocon
+-
+  git:
+    local-name: tricycle_controller
+    uri: "git@gitlab.ida.liu.se:minireach/tricycle_controller.git"
+    version: master
+-
+  git:
+    local-name: vehicle_kinematic
+    uri: "git@gitlab.ida.liu.se:minireach/urdf_vehicle_kinematic.git"
+    version: master
+-
+  git:
+    local-name: rocon_tools
+    uri: "git@gitlab.ida.liu.se:minireach/rocon_tools.git"
+    version: indigo-devel
+-
+  git:
+    local-name: cartographer
+    uri: "https://github.com/googlecartographer/cartographer.git"
+-
+  git:
+    local-name: cartographer_ros
+    uri: "https://github.com/googlecartographer/cartographer_ros.git"
+-
+  git:
+    local-name: ceres-solver
+    uri: "https://ceres-solver.googlesource.com/ceres-solver.git"
+    version: 1.12.0rc4
+-
+  git:
+    local-name: executive_smach_visualization
+    uri: "https://github.com/jbohren/executive_smach_visualization.git"
+    version: master
+-
+  git:
+    local-name: xdot
+    uri: "https://github.com/jbohren/xdot.git"
+    version: indigo-devel
