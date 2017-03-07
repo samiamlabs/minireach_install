@@ -28,7 +28,7 @@
   git:
     local-name: rocon_tools
     uri: "git@gitlab.ida.liu.se:minireach/rocon_tools.git"
-    version: indigo-devel
+    version: release/0.1-indigo
 -
   git:
     local-name: cartographer
