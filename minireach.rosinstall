@@ -52,3 +52,9 @@
     local-name: xdot
     uri: "https://github.com/jbohren/xdot.git"
     version: indigo-devel
+    
+-
+  git:
+    local-name: angles
+    uri: "https://github.com/ros/angles.git"
+    version: master
