@@ -8,7 +8,7 @@
   git:
     local-name: ros_canopen
     uri: "git@github.com:samiamlabs/ros_canopen.git"
-    version: indigo-rocon
+    version: indigo-devel
 -
   git:
     local-name: jura_driver
