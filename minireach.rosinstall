@@ -2,32 +2,32 @@
 -
   git:
     local-name: minireach
-    uri: "git@gitlab.ida.liu.se:minireach/minireach.git"
+    uri: "git@github.com:samiamlabs/minireach.git"
     version: indigo-rocon
 -
   git:
     local-name: minireach_apps
-    uri: "git@gitlab.ida.liu.se:minireach/minireach_apps.git"
+    uri: "git@github.com:samiamlabs/minireach_apps.git"
     version: indigo-rocon
 -
   git:
     local-name: minireach_simulator
-    uri: "git@gitlab.ida.liu.se:minireach/minireach_simulator.git"
+    uri: "git@github.com:samiamlabs/minireach_simulator.git"
     version: indigo-rocon
 -
   git:
     local-name: tricycle_controller
-    uri: "git@gitlab.ida.liu.se:minireach/tricycle_controller.git"
+    uri: "git@github.com:samiamlabs/tricycle_controller.git"
     version: master
 -
   git:
     local-name: vehicle_kinematic
-    uri: "git@gitlab.ida.liu.se:minireach/urdf_vehicle_kinematic.git"
+    uri: "git@github.com:samiamlabs/urdf_vehicle_kinematic.git"
     version: master
 -
   git:
     local-name: rocon_tools
-    uri: "git@gitlab.ida.liu.se:minireach/rocon_tools.git"
+    uri: "git@github.com:samiamlabs/rocon_tools.git"
     version: release/0.1-indigo
 -
   git:
