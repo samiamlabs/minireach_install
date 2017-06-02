@@ -21,7 +21,7 @@
     version: master
 -
   git:
-    local-name: vehicle_kinematic
+    local-name: urdf_vehicle_kinematic
     uri: "git@github.com:samiamlabs/urdf_vehicle_kinematic.git"
     version: master
 -
