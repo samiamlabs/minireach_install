@@ -16,6 +16,6 @@
     version: master
 -
   git:
-    local-name: minireach_robot
+    local-name: sick_bcg08_driver
     uri: "git@github.com:samiamlabs/sick_bcg08_driver.git"
     version: master
