@@ -1,0 +1,21 @@
+---
+-
+  git:
+    local-name: minireach_robot
+    uri: "git@github.com:samiamlabs/minireach_robot.git"
+    version: master
+-
+  git:
+    local-name: ros_canopen
+    uri: "git@github.com:samiamlabs/ros_canopen.git"
+    version: indigo-rocon
+-
+  git:
+    local-name: jura_driver
+    uri: "git@github.com:samiamlabs/jura_driver.git"
+    version: master
+-
+  git:
+    local-name: minireach_robot
+    uri: "git@github.com:samiamlabs/sick_bcg08_driver.git"
+    version: master
