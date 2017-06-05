@@ -1,11 +1,6 @@
 ---
 -
   git:
-    local-name: minireach
-    uri: "https://github.com/samiamlabs/minireach.git"
-    version: indigo-rocon
--
-  git:
     local-name: minireach_apps
     uri: "https://github.com/samiamlabs/minireach_apps.git"
     version: indigo-rocon
