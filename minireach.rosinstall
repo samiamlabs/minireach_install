@@ -2,7 +2,7 @@
 -
   git:
     local-name: minireach
-    uri: "git@github.com:samiamlabs/minireach.git"
+    uri: "https://github.com/samiamlabs/minireach.git"
     version: indigo-rocon
 -
   git:
